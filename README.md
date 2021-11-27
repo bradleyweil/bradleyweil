@@ -1,5 +1,7 @@
-### Hi there, I'm Brad - check out my [LinkedIn] 👋
+### Hi there, I'm Brad - check out my [LinkedIn](https://www.linkedin.com/in/bradley-weil-632773120/) 👋
 
+- 🔭 I’m currently working on developing my skills in all things data!
+- 🌱 I’m currently learning SQL, R, Statistics. 
 <!--
 **bradleyweil/bradleyweil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +18,4 @@ Here are some ideas to get you started:
 -->
 <br />
 <br />
-[LinkedIn]: https://www.linkedin.com/in/bradley-weil-632773120/
+Last Updated 11/26/2021
