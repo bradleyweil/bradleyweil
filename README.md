@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on developing my skills in all things data!
 - 🌱 I’m currently learning SQL, R, Statistics. 
+- I'd like to use this repository to begin working on projects where I can show case my skills. 
 <!--
 **bradleyweil/bradleyweil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
